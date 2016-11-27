@@ -1,0 +1,59 @@
+/* this ensures that the masonary layout is in check*/
+#container {
+  margin: 0 50px;
+  padding: 10px;
+  background-color: #fff;
+}
+
+.item {
+  float: left;
+  margin: 2px;
+
+}
+
+.item img {
+  border-radius: 5px;
+}
+
+.foot {
+  text-align: center;
+  font-family: fantasy;
+  
+}
+
+/*
+.caption {
+  background-color: transparent;
+  position: absolute;
+  color: #fff;
+  z-index: 100;
+  transition: all 300ms ease-out;
+  text-align: center;
+  height: 45px;
+
+  bottom: -35px;
+}
+
+#tribute .caption {
+  color: #000;
+}
+
+#tribute:hover .caption, #random:hover .caption {
+  cursor: pointer;
+  display: block;
+  transform: translateY(-100%);
+}
+*/
+
+/* deals with the about page layout */
+
+
+
+header {
+  text-align: center;
+  text-decoration: underline;
+  padding-top: 20px;
+  font-size: 26px;
+  font-family: cursive;
+  position: sticky;
+}
